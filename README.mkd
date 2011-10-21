@@ -6,4 +6,4 @@ LightWrite is a free and open source web-based clone of [WriteRoom](http://www.h
 
 LightWrite is built on lots of open source componants, including Python, Django, jQuery, and Smoke.js.
 
-Are there bugs or features you want for LightWrite? Get in touch! 
+Are there bugs or features you want for LightWrite? Get in touch!

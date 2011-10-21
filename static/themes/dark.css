@@ -17,7 +17,7 @@
   width: 100%;
 }
 
-.smoke-base .dialog-inner { 
+.smoke-base .dialog-inner {
 	padding: 15px;
 }
 
@@ -39,7 +39,7 @@
     background-color: rgba(f,f,f,.75);
 		font: 28px/120% 'Georgia',Georgia,serif;
 	  text-shadow: 0 0 1px #666677;
-	  padding: 15px; 
+	  padding: 15px;
 }
 .dialog-buttons {
 	margin: 5px 0 5px 0;
@@ -55,8 +55,8 @@
     border:1px solid #333;
 }
 
-button.cancel { 
-	background-color: #999; 
+button.cancel {
+	background-color: #999;
 	color:#222
 }
 
